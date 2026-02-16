@@ -37,7 +37,7 @@ I enjoy debugging more than watching movies 😄
 ---
 
 ## 🌐 Connect with me  
-- GitHub: https://github.com/YOUR_USERNAME  
+- GitHub: https://github.com/vedanganand75-crypto
 
 ---
 
