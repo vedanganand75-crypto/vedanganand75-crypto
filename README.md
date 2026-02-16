@@ -47,31 +47,4 @@
   <li><a href="https://github.com/vedanganand75-crypto" target="_blank">📌 Project 3 (Add your repo link)</a></li>
 </ul>
 
-<hr>
-
-<h3 align="left">📊 GitHub Stats (Yearly Progress)</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedanganand75-crypto&show_icons=true&locale=en" alt="vedanganand75-crypto" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedanganand75-crypto" alt="vedanganand75-crypto" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vedanganand75-crypto&show_icons=true&locale=en&layout=compact" alt="vedanganand75-crypto" />
-</p>
-
-<hr>
-
-<h3 align="center">📅 Yearly Contribution Graph</h3>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedanganand75-crypto&theme=github" alt="summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vedanganand75-crypto&theme=github&utcOffset=5.5" alt="productive-time" />
-</p>
 
