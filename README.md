@@ -37,14 +37,5 @@
   </a>
 </p>
 
-<p align="left">
-  🔥 Most Used Projects:
-</p>
-
-<ul>
-  <li><a href="https://github.com/vedanganand75-crypto" target="_blank">📌 Project 1 (Add your repo link)</a></li>
-  <li><a href="https://github.com/vedanganand75-crypto" target="_blank">📌 Project 2 (Add your repo link)</a></li>
-  <li><a href="https://github.com/vedanganand75-crypto" target="_blank">📌 Project 3 (Add your repo link)</a></li>
-</ul>
 
 
