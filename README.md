@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋, I'm Vedang Anand  
 
-<!--
-**vedanganand75-crypto/vedanganand75-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AIML Student | 💻 Python & Machine Learning | 🚀 Always Learning  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 I’m currently working on  
+- Machine Learning projects  
+- Python programming + DSA  
+- College AIML labs and mini-projects  
+
+## 👯 I’m looking to collaborate on  
+- Beginner-friendly AI/ML projects  
+- Python projects  
+- Open-source contributions  
+
+## 🤝 I’m looking for help with  
+- Deep Learning  
+- Model Deployment (Flask/Streamlit)  
+- Real-world ML projects  
+
+## 🌱 I’m currently learning  
+- Deep Learning (CNNs, RNNs)  
+- Data Structures & Algorithms  
+- Git & GitHub  
+- SQL + Data Analysis  
+
+## 💬 Ask me about  
+- Python  
+- Machine Learning  
+- Java basics  
+- DSA for beginners  
+
+## ⚡ Fun fact  
+I enjoy debugging more than watching movies 😄  
+
+---
+
+## 🌐 Connect with me  
+- GitHub: https://github.com/vedanganand75-crypto
+
+---
+
+⭐ If you like my work, consider giving a star to my repositories!
